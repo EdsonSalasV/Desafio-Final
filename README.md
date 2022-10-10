@@ -2,5 +2,5 @@
 Desafio Final 
 
 ## repositorio forkeado
- https://github.com/EdsonSalasV/Portafolio-Anabelen
- https://github.com/EdsonSalasV/JoseLuisRiquelme.github.io
+ Se edita el header https://github.com/EdsonSalasV/Portafolio-Anabelen
+ Se edita el titulo https://github.com/EdsonSalasV/JoseLuisRiquelme.github.io
