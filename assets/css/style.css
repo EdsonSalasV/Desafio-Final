@@ -1,11 +1,14 @@
-body{
-    background-color: rgba(224, 221, 166, 0.747)    ;
+body {
+    background-color: rgba(224, 221, 166, 0.747);
     font-family: 'Abyssinica SIL', serif;
 }
 
-.contact{
+.contact {
     background-color: black;
-    text-align:left;
+    text-align: left;
     color: beige;
 }
 
+nav {
+    font-size: 1rem;
+}
